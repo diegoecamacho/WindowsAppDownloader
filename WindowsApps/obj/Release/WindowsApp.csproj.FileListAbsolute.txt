@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\bin\Release\WindowsFormsApp1.exe
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\bin\Release\WindowsFormsApp1.pdb
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\obj\Release\WindowsDownloadApp.DownloadCheckbox.resources
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\obj\Release\WindowsDownloadApp.WindowAppDownloader.resources
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\obj\Release\WindowsApp.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\obj\Release\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\obj\Release\WindowsFormsApp1.exe
+C:\Users\diego\source\repos\WindowsAppDownloader\WindowsApps\obj\Release\WindowsFormsApp1.pdb
